@@ -1,2 +1,2 @@
-# Akash
+# Web Projects
 Projects
